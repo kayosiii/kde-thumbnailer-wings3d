@@ -1,0 +1,1 @@
+This needs to be used along side my Wings3d build (not committed yet). The modified wings creates a 256x256 pixel image embedded in the wings file on save. This plugin extracts that image so that KDE can use it for previews in Dolphin etc. 
