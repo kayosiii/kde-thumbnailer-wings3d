@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Service
+Name=Wings3d documents
+X-KDE-ServiceTypes=ThumbCreator
+ServiceTypes=ThumbCreator
+MimeType=application/x-wings3d;
+X-KDE-Library=wings-thumbnailer-kde
+CacheThumbnail=true

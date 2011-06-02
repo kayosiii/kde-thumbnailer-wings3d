@@ -1,0 +1,4 @@
+[Project]
+Manager=KDevCMakeManager
+Name=kde_wing3d_thumbnailer
+VersionControl=
