@@ -1,0 +1,17 @@
+Source: kde-thumbnailer-wings3d
+Section: kde
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Danni Coy <danni.coy@gmail.com>
+Build-Depends: debhelper (>= 7.3.16), pkg-kde-tools (>= 0.5.0), cmake,
+ kdelibs5-dev
+Standards-Version: 3.8.4
+Homepage: https://github.com/kayosiii/kde_thumbnail_creator_wings3d
+
+Package: kde-thumbnailer-wings3d
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: dolphin, konqueror
+Description: KDE plugin to show thumbnails of Wings3d files
+ Plugin for KDE file managers (Dolphin and Konqueror) to preview Wings3d
+ files as Thumbnails. (using a patched version of wings3d).
